@@ -1,0 +1,90 @@
+item {
+    name: "bicycle",
+    id: 1,
+    display_name: "bicycle"
+}
+item {
+    name: "books",
+    id: 2,
+    display_name: "paper"
+}
+item {
+    name: "bottle",
+    id: 3,
+    display_name: "bottle"
+}
+item {
+    name: "car",
+    id: 4,
+    display_name: "car"
+}
+item {
+    name: "chair",
+    id: 5,
+    display_name: "chair"
+}
+item {
+    name: "cpu",
+    id: 6,
+    display_name: "cpu"
+}
+item {
+    name: "fan",
+    id: 7,
+    display_name: "fan"
+}
+item {
+    name: "helmet",
+    id: 8,
+    display_name: "helmet"
+}
+item {
+    name: "keyboard",
+    id: 9,
+    display_name: "keyboard"
+}
+item {
+    name: "laptop",
+    id: 10,
+    display_name: "laptop"
+}
+item {
+    name: "mobile",
+    id: 11,
+    display_name: "mobile"
+}
+item {
+    name: "monitor",
+    id: 12,
+    display_name: "monitor"
+}
+item {
+    name: "mouse",
+    id: 13,
+    display_name: "mouse"
+}
+item {
+    name: "person",
+    id: 14,
+    display_name: "person"
+}
+item {
+    name: "shoes",
+    id: 15,
+    display_name: "shoes"
+}
+item {
+    name: "speaker",
+    id: 16,
+    display_name: "speaker"
+}
+item {
+    name: "table",
+    id: 17,
+    display_name: "table"
+}
+item {
+    name: "tubelight",
+    id: 18,
+    display_name: "tubelight"
+}

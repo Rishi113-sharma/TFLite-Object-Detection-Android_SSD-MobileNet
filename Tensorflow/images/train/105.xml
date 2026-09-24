@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>30_jpeg_jpg.rf.8aae8faa78ee684dbc2c60a9d4c288c7.jpg</filename>
+	<path>30_jpeg_jpg.rf.8aae8faa78ee684dbc2c60a9d4c288c7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>115</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

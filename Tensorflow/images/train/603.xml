@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG-20231129-WA0026_jpg.rf.f91086d6b61e15f7f77f5fd9cbb9eda8.jpg</filename>
+	<path>IMG-20231129-WA0026_jpg.rf.f91086d6b61e15f7f77f5fd9cbb9eda8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>501</xmax>
+			<ymin>90</ymin>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

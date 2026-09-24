@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>gettyimages-sb10063030r-002-612x612_jpg.rf.e7aae40272b022a81ebbf94df250a097.jpg</filename>
+	<path>gettyimages-sb10063030r-002-612x612_jpg.rf.e7aae40272b022a81ebbf94df250a097.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>527</xmax>
+			<ymin>63</ymin>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

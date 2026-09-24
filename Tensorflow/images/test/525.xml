@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>images10_jpg.rf.b652e0761d8c100b9803b492588d733c.jpg</filename>
+	<path>images10_jpg.rf.b652e0761d8c100b9803b492588d733c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>602</xmax>
+			<ymin>73</ymin>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

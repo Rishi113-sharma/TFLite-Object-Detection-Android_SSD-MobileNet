@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>cp1_jpg.rf.75e652e52a58bd79c1a12c29cdf43f42.jpg</filename>
+	<path>cp1_jpg.rf.75e652e52a58bd79c1a12c29cdf43f42.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cpu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>635</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

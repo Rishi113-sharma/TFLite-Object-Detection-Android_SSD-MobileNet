@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>mo7_jpeg_jpg.rf.30b15964ce6fef16a9fce5ce4a3ad90e.jpg</filename>
+	<path>mo7_jpeg_jpg.rf.30b15964ce6fef16a9fce5ce4a3ad90e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>120</xmin>
+			<xmax>527</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

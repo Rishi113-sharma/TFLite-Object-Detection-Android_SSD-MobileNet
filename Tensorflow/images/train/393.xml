@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>eng_pl_HP-EliteDisplay-E231-LED-23-1920x1080-5ms-Black-Class-A-monitor-74687_5_jpg.rf.f5c06a74a0e26904e1ec8ce8473ae84c.jpg</filename>
+	<path>eng_pl_HP-EliteDisplay-E231-LED-23-1920x1080-5ms-Black-Class-A-monitor-74687_5_jpg.rf.f5c06a74a0e26904e1ec8ce8473ae84c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>641</xmax>
+			<ymin>4</ymin>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

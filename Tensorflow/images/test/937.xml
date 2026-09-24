@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20230110_10_52_12_Pro_jpg.rf.645dcfad41d2328b22f643ba6aa2271f.jpg</filename>
+	<path>WIN_20230110_10_52_12_Pro_jpg.rf.645dcfad41d2328b22f643ba6aa2271f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>443</xmax>
+			<ymin>225</ymin>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

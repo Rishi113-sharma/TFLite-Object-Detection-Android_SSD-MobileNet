@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>WhatsApp-Image-2023-12-02-at-12-43-22_c91c4c92_jpg.rf.499ddc4d14663c18c17c87cf29d994c9.jpg</filename>
+	<path>WhatsApp-Image-2023-12-02-at-12-43-22_c91c4c92_jpg.rf.499ddc4d14663c18c17c87cf29d994c9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>178</xmin>
+			<xmax>547</xmax>
+			<ymin>50</ymin>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
